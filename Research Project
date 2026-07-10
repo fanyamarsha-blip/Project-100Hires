@@ -5,3 +5,469 @@ AI-powered SEO content production
 ## Objective
 This research project explores how leading B2B SaaS marketers use AI to improve SEO content production while maintaining quality and search performance. By studying experienced practitioners and their recent content, the goal is to build a structured knowledge base of proven strategies, workflows, and best practices that can be used to develop a practical SEO content playbook.
 
+---
+
+# 1. Kevin Indig
+
+## About
+- **Role:** Independent Growth & SEO Advisor
+- **Company:** Independent (former Head of SEO/Growth at Shopify, G2, and Atlassian); advises companies including Meta, Reddit, Ramp, Dropbox, Hims, Nextdoor, and Snapchat
+- **Primary Expertise:** AI search measurement, organic growth strategy, SaaS SEO, citation/visibility research
+- **Platforms:** Newsletter (Growth Memo, 25,000+ subscribers), Podcast (Contrarian Marketing, co-hosted with Eli Schwartz), LinkedIn, Search Engine Journal column
+
+---
+## Why This Expert
+Kevin Indig is arguably the strongest single fit for "AI-powered SEO content production" in B2B SaaS today. He operated growth and SEO functions inside three major SaaS/e-commerce organizations (Shopify, G2, Atlassian) before going independent, which means his frameworks come from operating budgets and real product roadmaps, not just outside observation.
+
+What separates him from most commentators is his research cadence: Growth Memo publishes near-weekly, data-backed studies — clickstream analyses, citation audits across hundreds of thousands of AI conversations, and structured "Growth Intelligence Briefs" that track what is actually changing week to week in Google and LLM behavior. He's built and published original frameworks like the "decoupling of clicks from impact," which argues that AI search visibility now drives brand consideration and revenue in ways traditional click-based attribution can't capture — directly relevant to how B2B SaaS teams should measure content ROI in 2026.
+
+His advisory client list (Ramp, Dropbox, Nextdoor, Snapchat) and continued syndication on Search Engine Journal indicate he's trusted by both practitioners and larger media outlets, giving him credibility as both an operator and an educator.
+
+---
+## Recent Content
+
+### Piece 1
+- **Title:** "The science of how AI pays attention"
+- **Date:** February 16, 2026
+- **Link:** https://www.growth-memo.com/p/the-science-of-how-ai-pays-attention
+- **Summary:** Indig analyzed 1.2 million search results to understand how large language models actually process and select source content, concluding that AI systems behave more like a rushed editor skimming for usable facts than a careful reader working through a full document.
+- **Key Takeaways:**
+  - AI systems prioritize front-loaded, clearly structured information over comprehensive "ultimate guide" formats.
+  - Content structured for fast extraction (clear entities, definitive statements) outperforms exhaustive coverage.
+  - The findings challenge legacy SEO content advice built around depth and word count as ranking signals.
+- **Notable Quotes:** Indig describes the AI reading behavior he found as that of <cite index="46-1">"a busy editor, not a patient student."</cite>
+- **Practical Applications:** B2B SaaS content teams should restructure cornerstone pages so the highest-value facts (pricing, differentiators, use cases) appear in the first 500–600 words, rather than burying them under introductory context.
+
+### Piece 2
+- **Title:** "Growth Intelligence Brief #18"
+- **Date:** May 15, 2026
+- **Link:** https://www.growth-memo.com/p/growth-intelligence-brief-18
+- **Summary:** A weekly research brief covering Microsoft's public explanation of how Bing's index now functions as a "grounding" layer for AI answers rather than a traditional ranked list, plus practical guidance on auditing whether AI crawlers can actually read a site's key facts.
+- **Key Takeaways:**
+  - <cite index="47-2">Microsoft's framing treats the goal as fetching the best information to synthesize into a reliable, verifiable answer rather than just fetching the best documents.</cite>
+  - Factual fidelity — whether an indexed version of a page preserves the original meaning — is becoming a core quality metric for AI systems.
+  - Freshness failures carry a higher cost when content is used to ground answers rather than simply surfaced as an option.
+- **Practical Applications:** Run a crawler-access audit (e.g., using Firecrawl or server logs) on top commercial pages to confirm AI crawlers can retrieve pricing, feature, and comparison facts that may be hidden behind JavaScript rendering.
+
+---
+## Overall Themes
+Indig's recurring throughline is that classic SEO metrics (rankings, clicks, traffic) are decoupling from business impact, and that organic growth teams need new measurement systems built around AI visibility, citation frequency, and brand consideration rather than legacy rank tracking. His frameworks consistently push teams to: (1) treat AI crawlers and classic search crawlers as needing different technical strategies, (2) restructure content for fact-dense, front-loaded extraction rather than narrative-style long-form, (3) invest in original data and proprietary research as the most defensible way to earn AI citations, and (4) build measurement systems (like his Growth Intelligence Briefs) that track topic-level and vertical-level shifts rather than single keyword rankings.
+
+---
+---
+
+# 2. Aleyda Solis
+
+## About
+- **Role:** Founder & International SEO/GEO Consultant
+- **Company:** Orainti (boutique SEO/GEO consultancy); co-founder, Finchling
+- **Primary Expertise:** International and multilingual SEO, AI Search Optimization frameworks, technical crawlability for AI systems
+- **Platforms:** Newsletter (SEOFOMO, 45,000+ subscribers), Website (aleydasolis.com, LearningAIsearch.com, LearningSEO.io), Video series (Crawling Mondays), LinkedIn, X
+
+---
+## Why This Expert
+Aleyda Solis occupies a unique position: she is simultaneously a hands-on consultant advising global enterprise brands and the person who has built the most widely used free educational infrastructure for AI search optimization. Her consultancy, Orainti, works directly with large international brands navigating multi-market SEO — meaning her published frameworks are pressure-tested against real client budgets and real ranking outcomes, not theoretical.
+
+Her distinctive contribution to the AI SEO conversation is an infrastructure-first angle: before optimizing content wording for LLM citation, she stresses confirming that AI crawlers (which behave differently than Googlebot) can actually access and parse a site at all — flagging issues like aggressive rate limiting, JavaScript rendering, and default Cloudflare rules that silently block ChatGPT and Perplexity's crawlers.
+
+SEOFOMO's weekly cadence and 45,000+ subscriber base make her one of the highest-reach curators of what's actually happening in AI search week over week, which is valuable for any B2B SaaS content team trying to stay current without wading through hype.
+
+---
+## Recent Content
+
+### Piece 1
+- **Title:** "SEOFOMO — July 5, 2026" (weekly newsletter issue)
+- **Date:** July 5, 2026
+- **Link:** https://hub.seofomo.co/newsletters/
+- **Summary:** Weekly roundup covering the latest Google and AI search algorithm changes, tool releases, and industry commentary, curated and annotated by Solis for a practitioner audience.
+- **Key Takeaways:**
+  - Continues her practice of separating "SEOFOMO-worthy" news (material enough to change strategy) from noise.
+  - Tracks both classical Google SERP changes and parallel shifts in AI Overviews/AI Mode in the same issue, reinforcing that teams need to monitor both systems together.
+- **Practical Applications:** Use SEOFOMO as a standing input to a content team's weekly planning meeting — treat it as a triage tool for deciding which algorithm or platform changes require an actual content or technical response versus which can be ignored.
+
+### Piece 2
+- **Title:** SEOFOMO x Similarweb London panel discussion (industry recap)
+- **Date:** November 26, 2025 (recap published by Similarweb)
+- **Link:** https://www.similarweb.com/blog/updates/announcements/seofomo/
+- **Summary:** Solis hosted a live panel of SEO practitioners discussing how teams are actually coping with AI-driven search disruption heading into 2026, surfacing a recurring practical insight about how to measure AI visibility.
+- **Key Takeaways:**
+  - Panelists warned that tracking individual AI "prompts" is unreliable because prompts are personal and inconsistent between users.
+  - <cite index="54-4">A better approach is measuring visibility at the topic level rather than the prompt level, since topics remain stable while prompts do not.</cite>
+  - Budget conversations are shifting: some clients are pulling SEO budget toward paid search because it "feels faster," even though this often makes SEO teams reactive rather than strategic.
+- **Practical Applications:** When building AI-visibility dashboards for a B2B SaaS brand, structure tracking around core topics/entities the company wants to own, not a rotating list of literal prompts.
+
+---
+## Overall Themes
+Solis's recurring frameworks center on: (1) crawlability and technical access as the prerequisite to any AI content optimization effort, (2) treating international/multilingual visibility as a distinct discipline within GEO since AI models trained predominantly on English data behave inconsistently in other languages, (3) separating genuine algorithmic signal from hype through her weekly curation process, and (4) pushing teams toward topic-level rather than prompt-level measurement of AI visibility.
+
+---
+---
+
+# 3. Ross Simmonds
+
+## About
+- **Role:** Founder & CEO
+- **Company:** Foundation (B2B content marketing agency — clients include Canva, Shopify, Jobber, Procore); also founder of Distribution.ai
+- **Primary Expertise:** Content distribution strategy, multi-channel repurposing, GEO/AI citation through distribution volume
+- **Platforms:** YouTube (Ross Simmonds channel / RossSimmondsTV), Podcast (The Ross Simmonds Show), Newsletter (75,000+ subscribers), Website (rosssimmonds.com, foundationinc.co), LinkedIn
+
+---
+## Why This Expert
+Ross Simmonds built his career and his agency around a single, well-tested thesis — "Create Once, Distribute Forever" — and has now extended that thesis directly into the AI search era. His argument is that content only gets cited by AI systems if it's been seen and referenced widely enough across the web (Reddit, LinkedIn, YouTube, forums) for those systems to encounter it in the first place, which reframes distribution as a prerequisite for AI visibility rather than a separate, secondary activity.
+
+He practices this directly: Foundation runs paid B2B content programs for large SaaS brands, and Simmonds has built and launched his own product (Distribution.ai) to operationalize the distribution playbook he teaches, giving him direct commercial skin in the game. He also regularly publishes proprietary research (e.g., large-scale keyword studies on where B2B buyers actually research purchases) rather than relying solely on secondhand data.
+
+---
+## Recent Content
+
+### Piece 1
+- **Title:** "My Latest Project: Distribution.ai — Putting Content Distribution On Autopilot"
+- **Date:** December 1, 2025
+- **Link:** https://rosssimmonds.com/blog/distribution-ai/
+- **Summary:** Simmonds explains why he built Distribution.ai after seeing his own team and clients repeatedly create valuable research and content that got published once and then never resurfaced, arguing that most companies still treat "publish" as the finish line instead of the starting point.
+- **Key Takeaways:**
+  - Great content only becomes "great" once the market has a chance to actually encounter it — distribution determines whether quality gets recognized at all.
+  - Automating repurposing (podcast → email, blog → LinkedIn, YouTube → social copy) removes the operational friction that causes distribution to get skipped under time pressure.
+  - Applies the same automation to his own personal brand and to Foundation's client blogs via RSS-triggered workflows.
+- **Notable Quotes:** He frames the core problem plainly: publishing without distribution means content is <cite index="65-2">"going to collect dust"</cite> regardless of its quality.
+- **Practical Applications:** Build an RSS-to-repurposing pipeline so every blog post, podcast episode, or video automatically generates a first draft of LinkedIn, X, and email copy, removing the dependency on someone remembering to manually repurpose.
+
+### Piece 2
+- **Title:** "The Ross Simmonds Show — GEO/AI Visibility episode" (five plays for citation authority)
+- **Date:** ~May 2026 (per podcast feed)
+- **Link:** https://podcasts.apple.com/pl/podcast/the-ross-simmonds-show/id1653650073
+- **Summary:** Simmonds argues that showing up inside ChatGPT, Claude, and Perplexity answers is the largest marketing shift in years, and that treating it as "SEO 2.0" undersells how different the underlying mechanics are — the episode walks through five practical plays to build citation authority.
+- **Key Takeaways:**
+  - Reddit has gone from dismissed to dominant: he notes it now factors into a majority of bottom-funnel LLM citations, a reversal of how the platform was perceived in 2018.
+  - AI has commoditized content creation itself, meaning the competitive advantage has shifted entirely to who controls the widest distribution and reach.
+  - The window to build a distribution-based content moat "cheaply" is closing as more brands catch on to this strategy.
+- **Practical Applications:** Audit whether a brand has any organic presence on Reddit and community forums relevant to its category — if not, treat this as a gap in AI-citation readiness, not just a traditional SEO gap.
+
+---
+## Overall Themes
+Simmonds' consistent framework across all his content is: content creation is only half the job, and in an AI-search world, distribution is the actual growth lever. He repeatedly returns to community platforms (Reddit, LinkedIn, YouTube) as the places AI systems draw citations from, argues that proprietary research and data give distributed content more durable value, and increasingly positions AI tools (his own Distribution.ai, plus general LLM workflows) as infrastructure for scaling distribution rather than replacing strategic thinking.
+
+---
+---
+
+# 4. Eli Schwartz
+
+## About
+- **Role:** Independent Growth/SEO Advisor and Author
+- **Company:** Independent (past in-house SEO leadership at SurveyMonkey; clients/past work with WordPress, Coinbase, Shutterstock, Quora, Zendesk, Mixpanel, Faire, Gusto)
+- **Primary Expertise:** Product-led SEO, organic growth strategy for SaaS, SEO's evolving role as AI reshapes search surfaces
+- **Platforms:** Podcast (Contrarian Marketing, co-hosted with Kevin Indig), Book (*Product-Led SEO*), Newsletter, LinkedIn
+
+---
+## Why This Expert
+Eli Schwartz's core contribution is a philosophical reframe that is especially relevant to B2B SaaS: SEO should be treated as a product function that serves genuine user needs, not a set of manipulative technical tricks layered onto content after the fact. His book *Product-Led SEO* has become foundational reading specifically because it was developed from his in-house experience scaling organic growth from near-zero at SurveyMonkey into one of the company's largest growth channels.
+
+He continues to practice and test this thinking publicly via the Contrarian Marketing podcast, where he and Kevin Indig regularly debate live predictions about AI search shifts (e.g., SGE, AI Overviews) rather than presenting settled conclusions — a level of transparency about being wrong or uncertain that's uncommon in the space.
+
+---
+## Recent Content
+
+### Piece 1
+- **Title:** "What SEO Actually Looks Like in 2026" (The Campaign podcast, 97th Floor)
+- **Date:** February 10, 2026
+- **Link:** https://open.spotify.com/episode/1WKGHkBXc039k4TlPwGK8B
+- **Summary:** Schwartz challenges the assumption that major AI platform partnerships (e.g., Apple-Gemini) signal the death of SEO, arguing instead that they reinforce Google's continued dominance over search for the near future, while search surfaces themselves keep expanding into new devices and contexts.
+- **Key Takeaways:**
+  - The definition of "SEO" is expanding beyond the browser to cover any surface where an assistant might answer a query — voice assistants, in-car systems, and eventually ambient devices.
+  - Some large, well-known companies should not spend meaningfully on SEO at all, while others in different categories should invest heavily — the right answer depends on the buying journey, not company size.
+  - Thin, keyword-stuffed content strategies are obsolete regardless of platform changes.
+- **Practical Applications:** Before allocating SEO/content budget, map out whether a B2B SaaS company's buyers actually research via search-driven discovery at all, rather than assuming SEO investment is automatically warranted.
+
+### Piece 2
+- **Title:** "The Future of Search Is Product-Led with Eli Schwartz" (Marketing Speak podcast)
+- **Date:** March 2026 (per publication metadata)
+- **Link:** https://www.marketingspeak.com/the-future-of-search-is-product-led-with-eli-schwartz/
+- **Summary:** A return interview exploring how mid-funnel content optimization is becoming more important as AI reshapes early-stage informational search, plus how SEO strategy should evolve as new AI-driven search engines emerge.
+- **Key Takeaways:**
+  - Companies should map the full user journey and determine where SEO fits into it before making significant content investments, rather than defaulting to keyword-first planning.
+  - Emerging AI search engines require rethinking how content "surfaces," since ranking logic differs meaningfully from classic Google mechanics.
+  - Delivering genuinely useful information, rather than content engineered purely to rank, remains the throughline connecting classic SEO and AI-search-era content.
+- **Practical Applications:** Reallocate some content planning time from top-of-funnel keyword targeting toward mid-funnel content that helps buyers evaluate and compare — the zone Schwartz argues is becoming more valuable as AI absorbs early-stage informational queries.
+
+---
+## Overall Themes
+Schwartz consistently argues against treating SEO as a set of isolated technical tactics, instead framing it as a growth discipline that must be mapped against the actual buyer journey and genuine user value. His recurring points across appearances: search surfaces are multiplying beyond the browser, content investment should be need-based rather than default, and the fundamentals of serving real user intent outlast any individual algorithm or platform shift.
+
+---
+---
+
+# 5. Ben Goodey
+
+## About
+- **Role:** Founder
+- **Company:** Spicy Margarita (AI SEO/GEO consultancy for B2B SaaS); also creator of the "How the F*ck" media brand
+- **Primary Expertise:** GEO case studies, SEO content-scaling operations, B2B SaaS SEO strategy
+- **Platforms:** Podcast/Newsletter (How the F*ck, thefxck.com), LinkedIn, Website (spicymargarita.co)
+
+---
+## Why This Expert
+Ben Goodey's defining strength is that his entire media output is built on real, named case studies rather than generic advice — his "How the F*ck" podcast interviews the actual operators behind SEO growth stories (e.g., Monday.com's path to 1,000 SEO articles pre-IPO), digging into specific, replicable operational detail: hiring, workflows, budgets, and timelines. He then runs his own consultancy, Spicy Margarita, applying the same GEO/AI-search principles to live B2B SaaS clients, which keeps his frameworks grounded in current client work rather than dated case studies.
+
+His content also directly addresses the operational side of "content production" that this research topic calls out specifically — scaling teams of writers, briefing processes, and content operations systems for high-volume B2B blogs.
+
+---
+## Recent Content
+
+### Piece 1
+- **Title:** "How Aditya Vempaty Made SEO a Demand Creation Channel at MoEngage" (How the F*ck podcast)
+- **Date:** 2026 (per active podcast feed)
+- **Link:** https://podcasts.apple.com/us/podcast/how-the-fxck/id1509598797
+- **Summary:** Goodey interviews Aditya Vempaty (VP of Marketing at MoEngage, ex-Amplitude) about identifying an underserved audience segment within a competitive category and building an SEO-led content strategy specifically to capture it, rather than competing head-on for existing keyword territory.
+- **Key Takeaways:**
+  - Ignore direct competitors' content footprint as the primary planning input; instead identify "the need behind the need" that competitors are missing.
+  - SEO can function as a demand-creation channel, not just a demand-capture channel, when content targets an underserved pain point directly.
+  - AI's role in the workflow is discussed as a production accelerant, not a replacement for the underlying positioning strategy.
+- **Practical Applications:** Before building a content calendar, run a gap analysis specifically for underserved segments or pain points competitors are ignoring, rather than only targeting keywords competitors already rank for.
+
+### Piece 2
+- **Title:** "Scaling Springly's Content to 100 Articles a Month" (How the F*ck podcast, feat. Trish Seidel)
+- **Date:** 2026 (per active podcast feed)
+- **Link:** https://seo.thefxck.com/author/ben-goodey/
+- **Summary:** Goodey interviews Trish Seidel about the operational systems behind scaling a B2B content program to 100 articles per month, including cluster-building, quality standards at scale, and how her AI usage has evolved after moving into a longer-sales-cycle role.
+- **Key Takeaways:**
+  - Content clusters need defined quality standards before scaling volume, or growth in output erodes overall content quality.
+  - Approaches to AI-assisted writing shift meaningfully when moving from shorter to longer B2B sales cycles — the level of technical depth and trust-building required increases.
+  - Process documentation (briefs, workflows) becomes the actual scaling bottleneck, not writer headcount.
+- **Practical Applications:** Before scaling B2B content output, document a repeatable brief and quality-check process first — throughput without a defined process leads to inconsistent quality across a growing team of writers.
+
+---
+## Overall Themes
+Goodey's throughline across nearly every episode is that real SEO/content wins are operational — driven by specific hiring choices, workflow systems, and positioning decisions — rather than abstract tactics. He consistently pushes guests toward concrete, replicable detail ("How exactly did you scale this? Where did you find writers?"), and increasingly folds AI content workflows and GEO/AI-search visibility into that same operationally-grounded lens rather than treating them as a separate hype topic.
+
+---
+---
+
+# 6. Irina Maltseva
+
+## About
+- **Role:** Founder
+- **Company:** Seen (AI SEO/GEO agency); also founder, ONSAAS; formerly Growth Lead at Aura and Head of Marketing at Hunter.io
+- **Primary Expertise:** SaaS SEO strategy, GEO for B2B software, translating AI-search disruption into board-level business terms
+- **Platforms:** LinkedIn, Blog (onsaas.me)
+
+---
+## Why This Expert
+Irina Maltseva has over a decade of hands-on, in-house SaaS marketing experience (Hunter.io, Aura) before founding her own agency, which means her commentary is grounded in having actually owned SEO/content P&Ls inside SaaS companies, not just consulted on them. Her current agency, Seen, is built specifically around treating Google and LLM visibility as a single connected system for SaaS clients, rather than bolting "AI SEO" onto a legacy service offering.
+
+Her LinkedIn content stands out for translating what could be alarming traffic data (organic clicks collapsing due to AI Overviews) into a calm, board-ready explanation of what actually matters — a skill directly relevant to marketing leaders who need to justify their SEO/content budgets internally in 2026.
+
+---
+## Recent Content
+
+### Piece 1
+- **Title:** "Dear CEO, if your organic traffic chart looks like this, don't freak out"
+- **Date:** ~January 2026 (per LinkedIn post metadata, "6mo" prior to a July 2026 capture)
+- **Link:** https://www.linkedin.com/top-content/marketing/seo-best-practices-for-marketers/
+- **Summary:** Maltseva addresses SaaS executives directly about steep organic traffic declines in 2025–2026, arguing the drop reflects an industry-wide structural shift in how Google and AI systems surface information — not a failure of the internal marketing team — and that traffic itself is no longer the metric that matters.
+- **Key Takeaways:**
+  - Google's shift toward answering queries directly, plus the rise of UGC platforms (Reddit, forums) outranking blog content, has hit "almost everyone," even teams with strong track records.
+  - Across dozens of Search Console accounts she reviewed, the pattern repeats: traffic down, conversion rates flat or rising, and organic revenue still growing.
+  - <cite index="92-4">One SaaS client lost 77% of clicks year-over-year while still posting its most profitable year ever, with three times more organic conversions.</cite>
+- **Practical Applications:** Shift board-level SEO reporting away from raw traffic and toward branded demand, pricing-page visits, and conversion rate — reframe declining click volume as an expected industry-wide shift rather than a performance failure.
+
+### Piece 2
+- **Title:** "SaaS SEO: A Complete Guide from My 10 Years of Experience"
+- **Date:** April 28, 2026
+- **Link:** https://www.onsaas.me/blog/saas-seo
+- **Summary:** A comprehensive guide distilling a decade of hands-on SaaS SEO work into practical frameworks, covering both classic Google ranking strategy and the newer discipline of tracking visibility across ChatGPT, Perplexity, and Gemini.
+- **Key Takeaways:**
+  - Real client examples are used throughout (e.g., a new site outranking established competitors within weeks; a single optimized product page converting at 10%).
+  - The guide explicitly separates "get found on Google" tactics from "get found in AI answers" tactics rather than treating them identically.
+  - Positions competitive blind-spot analysis across AI search tools as a new, necessary category of SaaS marketing work.
+- **Practical Applications:** Run a competitive AI-visibility audit (what do ChatGPT/Perplexity/Gemini say when asked for recommendations in your category) alongside a traditional competitor keyword-gap analysis, since the two can surface very different blind spots.
+
+---
+## Overall Themes
+Maltseva's recurring theme is translation and reassurance: taking the disruptive, sometimes alarming data of the AI-search transition and converting it into clear, board-level guidance for SaaS leadership. She consistently argues that traffic is a vanity metric in 2026, that founder/executive involvement is an underrated SEO success factor, and that GEO and classical SEO should be measured and reported as one connected visibility system rather than two separate initiatives.
+
+---
+---
+
+# 7. Ryan Law
+
+## About
+- **Role:** Director of Content Marketing
+- **Company:** Ahrefs (previously Director of Content at Animalz)
+- **Primary Expertise:** Content marketing systems at scale, AI-assisted content production workflows, editorial quality standards
+- **Platforms:** Blog (ahrefs.com/blog author page), LinkedIn, frequent podcast guest, personal site (ryanlaw.me)
+
+---
+## Why This Expert
+Ryan Law runs content marketing for one of the most-cited B2B SaaS blogs in the SEO industry, giving him a rare vantage point: he is simultaneously a practitioner producing content that must perform commercially for Ahrefs, and a public documenter of exactly how his team does it — including detailed, specific breakdowns of the AI tooling and workflows involved. This directly matches the "content production" half of the research brief in a way few other experts do.
+
+His willingness to publish the literal prompts, editorial workflows, and skill files his team uses (with explicit caveats about where AI still requires human judgment) makes his content unusually actionable compared to more strategy-only commentary elsewhere in the space.
+
+---
+## Recent Content
+
+### Piece 1
+- **Title:** "How I Do Content Engineering with Claude Code"
+- **Date:** April 28, 2026
+- **Link:** https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/
+- **Summary:** Law details a content automation system he built for the Ahrefs blog using around 23 "skill files" that correspond to different parts of the editorial process (keyword research, topic gap analysis, structural outlining), evolving from an earlier, more manual AI-assisted workflow he'd shared previously.
+- **Key Takeaways:**
+  - The system is explicitly modeled on Ahrefs' existing human editorial process, built from years of collective content marketing experience, rather than replacing that process wholesale.
+  - <cite index="101-2">AI content wasn't good enough before, but he now assesses that it has crossed a quality threshold where meaningful parts of content marketing can be automated without a loss in quality.</cite>
+  - Every skill file can be used independently, but a master "blog-pipeline" skill sequences them for full articles.
+- **Notable Quotes:** He includes a LinkedIn commenter's observation that a system like this only works because <cite index="101-3">"Ryan's SKILL files are good because Ryan already knew what to put in them"</cite> — underscoring that AI amplifies existing editorial expertise rather than replacing the need for it.
+- **Practical Applications:** Before attempting to automate any part of a content pipeline with AI, first document the existing human editorial process in detail — the quality of an AI workflow is bounded by the quality of the process it's modeled on.
+
+### Piece 2
+- **Title:** "Website traffic decline in 2026: Ryan Law on AI overviews, zero-click search and what to do next" (The Marketing Meetup session)
+- **Date:** February 25, 2026 (event date, per session listing)
+- **Link:** https://themarketingmeetup.com/events/website-traffic-decline-2026/
+- **Summary:** Law openly shares that even the well-established Ahrefs blog is experiencing steady organic traffic decline, and lays out a practical, step-by-step response plan for content teams facing the same pattern.
+- **Key Takeaways:**
+  - Declining informational-query clicks due to AI Overviews should be treated as structural and industry-wide, not a signal of content quality failure.
+  - A practical starting plan includes auditing top declining pages for refresh priority, testing new titles for CTR, and scoring content by business potential to rebalance the roadmap.
+  - Personal, individual employee LinkedIn accounts often generate more impressions than brand accounts — social distribution is becoming a critical layer as SEO reliability drops.
+- **Practical Applications:** Build at least one original research asset per year (even small-scale) as a durable content investment, and actively encourage team members' personal LinkedIn activity as a distribution channel rather than relying solely on the brand account.
+
+---
+## Overall Themes
+Law's content consistently bridges high-level content strategy with granular production mechanics — he's equally comfortable discussing traffic decline strategy at an executive level and publishing the literal AI prompts and skill files his team uses day to day. Recurring themes: AI should encode and scale existing editorial judgment rather than replace it, original research and proprietary data are increasingly valuable as differentiators, and content teams need to diversify distribution (especially personal/employee social) as organic search reliability declines.
+
+---
+---
+
+# 8. Andy Crestodina
+
+## About
+- **Role:** Co-Founder & CMO
+- **Company:** Orbit Media Studios
+- **Primary Expertise:** Content marketing strategy, content-driven agency growth, data-backed content marketing research (annual blogger surveys)
+- **Platforms:** Blog (orbitmedia.com/blog), Book (*Content Chemistry*), LinkedIn, frequent keynote speaker
+
+---
+## Why This Expert
+Andy Crestodina has run Orbit Media's own growth almost entirely through content marketing for close to two decades, making him one of the few voices in this space whose company's entire revenue model is proof of the strategy he teaches. Orbit's annual practitioner survey research (covering thousands of bloggers and content marketers) provides original data that other outlets — including this research brief's other experts — regularly cite, giving him outsized influence on industry benchmarks.
+
+His content also directly documents Orbit's own internal content strategy evolution over 15+ years, offering a rare longitudinal case study of how a services business scales content operations from an informal blog into a structured, revenue-driving system.
+
+---
+## Recent Content
+
+### Piece 1
+- **Title:** "15 years of content marketing. Orbit's own strategy."
+- **Date:** Published/updated regularly; most recent version referenced February 2024, still actively linked as of 2026
+- **Link:** https://www.orbitmedia.com/blog/orbit-media-content-strategy/
+- **Summary:** Crestodina documents Orbit Media's own content marketing journey from an unplanned, informal blog started in 2007 to a structured, revenue-generating content program that now supports the agency's ~$7M annual revenue with zero paid advertising spend.
+- **Key Takeaways:**
+  - Early content efforts don't need a formal strategy to start — Orbit's program began with three articles written in an afternoon with no real plan.
+  - Success metrics should match the actual goal: when the audience is small and relationship-driven, pageviews are the wrong success metric — conversations and responses matter more.
+  - Publishing frequency and topic focus evolved deliberately over time as the internal team and available hours grew.
+- **Practical Applications:** When starting or auditing a B2B content program, define what "success" actually looks like at the current stage (relationship-building vs. scaled lead gen) before choosing which metrics to report on.
+
+### Piece 2
+- **Title:** "The Entire Content Creation Process in 17 Steps and a Single Flowchart"
+- **Date:** Referenced/updated September 2025, actively maintained resource
+- **Link:** https://www.orbitmedia.com/blog/content-creation-process/
+- **Summary:** A step-by-step operational flowchart covering the full content production lifecycle from ideation through promotion, incorporating guest contributions from other practitioners (including Ryan Law's concept of "Coined Concepts" — memorable framework names that anchor an article's core argument).
+- **Key Takeaways:**
+  - Sharing an idea with your network before publishing (step 3) helps set up promotion and amplification before the piece goes live.
+  - Naming a distinct, ownable concept within an article increases its memorability and shareability.
+  - Newsletter promotion elements (subject line, teaser text) should be planned as part of the content process, not bolted on afterward.
+- **Practical Applications:** Add a "coined concept" step to content briefs — require writers to identify or create one ownable, nameable framework per major piece rather than only covering existing terminology.
+
+---
+## Overall Themes
+Crestodina's recurring themes are rigor and proof: he consistently backs claims with original survey data (Orbit's annual blogger and B2B marketing surveys are cited industry-wide), documents his own agency's results transparently, and frames content marketing as a long-game relationship-building discipline rather than a short-term traffic play. His content increasingly incorporates AI workflow guidance (e.g., prompt frameworks for content specificity) while maintaining his consistent emphasis on measurable, business-tied outcomes.
+
+---
+---
+
+# 9. Dave Gerhardt
+
+## About
+- **Role:** Founder
+- **Company:** Exit Five (B2B SaaS marketing community and media company); former CMO at Drift and Privy; author of *Founder Brand*
+- **Primary Expertise:** B2B SaaS marketing leadership, founder-led brand building, content/community-driven growth
+- **Platforms:** Podcast (The Dave Gerhardt Show, part of Exit Five), Newsletter (50,000+ subscribers), Community (Exit Five, 40,000+ members), LinkedIn, YouTube
+
+---
+## Why This Expert
+Dave Gerhardt built Exit Five into the largest dedicated B2B SaaS marketing community on the internet after operating as CMO through Drift's and Privy's fastest-growth periods — meaning his current media platform is itself proof of the founder-led, content-driven growth playbook he teaches. While less narrowly SEO-technical than other names on this list, he's essential for the "content production" side of the brief because his podcast functions as a real-time record of what's actually working across B2B SaaS marketing, including how teams are integrating AI into content operations without losing brand voice.
+
+His interviews consistently surface operator-level detail (specific tech stacks, specific funnel mechanics, specific hiring decisions) rather than generic marketing talk, which is directly useful for anyone building an internal content playbook.
+
+---
+## Recent Content
+
+### Piece 1
+- **Title:** "The Rise of the Content Engineer" (feat. Eoin Clancy, VP of Growth, AirOps)
+- **Date:** January 23, 2026
+- **Link:** https://podcasts.apple.com/us/podcast/the-dave-gerhardt-show-from-exit-five/id1599954536
+- **Summary:** Gerhardt and Clancy discuss the emergence of the "content engineer" role at AirOps, exploring how the company uses AI to produce high-quality content without producing "AI slop," and why webinars — not blog content — became AirOps' top growth channel in 2026.
+- **Key Takeaways:**
+  - Good SEO fundamentals haven't actually changed in the AI era; what's changed is the production process behind them.
+  - Three warning signs distinguish AI-assisted content from AI "slop," centering on tone consistency, lack of genuine subject-matter input, and generic structure.
+  - Subject matter expertise, not writing polish, is described as the single best ingredient for content that performs in an AI-saturated content environment.
+- **Practical Applications:** Before scaling AI-assisted content production, establish a clear internal checklist for identifying "slop" (e.g., missing SME input, generic structure, inconsistent voice) so quality control has explicit criteria rather than subjective judgment calls.
+
+### Piece 2
+- **Title:** "The Distribution Engine Nobody Talks About" (Grown On podcast, feat. Dave Gerhardt as guest)
+- **Date:** 2026 (per active podcast feed)
+- **Link:** https://www.iheart.com/podcast/1333-grown-on-320446946/
+- **Summary:** Gerhardt discusses his own path from operating inside high-growth SaaS companies to building Exit Five as a community-first business, focusing on what it takes to build a brand people trust and follow, and how LinkedIn growth becomes a genuine demand-generation engine.
+- **Key Takeaways:**
+  - Consistency as a creator — showing up on a regular cadence — is described as a discipline requirement, not a talent requirement.
+  - Company culture around content creation is frequently the actual blocker to a strong personal/brand presence, more than lack of ideas.
+  - Demand generation, brand marketing, and content strategy should be thought of as compounding investments rather than isolated campaigns.
+- **Practical Applications:** Treat internal culture and incentive structures (not just content calendars) as the thing to audit when a B2B SaaS company's content or LinkedIn presence isn't gaining traction.
+
+---
+## Overall Themes
+Gerhardt's throughline is that modern B2B SaaS growth is community- and founder-brand-driven, and that content production increasingly depends on organizational culture and role design (like the emerging "content engineer" function) as much as tactics. His interviews recurrently return to: AI as a production accelerant that still requires genuine subject-matter expertise, personal/founder brand as a growth engine, and skepticism toward any single-channel silver bullet in favor of compounding, multi-channel investment.
+
+---
+---
+
+# 10. Amanda Natividad
+
+## About
+- **Role:** VP of Marketing / Chief Evangelist
+- **Company:** SparkToro (audience research platform, co-founded by Rand Fishkin)
+- **Primary Expertise:** Zero-click content strategy, audience research, brand-building in a low-attribution search environment
+- **Platforms:** Podcast (Zero Click Marketing, her own show), Newsletter (Substack), LinkedIn, Instagram, Threads
+
+---
+## Why This Expert
+Amanda Natividad coined "zero-click content" in 2022 — well before the industry broadly recognized how much AI Overviews and platform-native content would reshape search and social behavior — and has since built out a full framework (and now her own dedicated podcast) around what marketing looks like when clicks can no longer be the primary success metric. This is directly relevant to B2B SaaS content teams that need new ways to justify content investment as organic click-through continues to decline.
+
+Her work at SparkToro means she practices audience-first research daily as her actual job, not just as a talking point, and her content consistently translates that practice into concrete frameworks (like her "Value on Investment" reporting model) that marketing leaders can apply immediately.
+
+---
+## Recent Content
+
+### Piece 1
+- **Title:** "AI Visibility Isn't Merely a Score. It's a Mirror." (Zero Click Marketing podcast)
+- **Date:** ~June 2026 (referenced as following a May 2026 episode)
+- **Link:** https://podcasts.apple.com/us/podcast/zero-click-marketing/id1883862031
+- **Summary:** Natividad tests HubSpot's free AEO Grader tool using SparkToro itself as the example case, using the results to argue that AI visibility scores function less as a standalone KPI and more as a diagnostic mirror reflecting deeper positioning and messaging issues.
+- **Key Takeaways:**
+  - A messy or inconsistent AI-visibility competitive set often reveals unresolved brand positioning problems, not just a content gap.
+  - She warns against treating AI visibility scores as vanity metrics disconnected from actual marketing priorities.
+  - Provides a three-bucket framework for evaluating what an AI visibility audit's results actually mean for a team's roadmap.
+- **Practical Applications:** Before reacting to a low AI-visibility score with more content production, first check whether the underlying issue is unclear brand positioning — content alone won't fix a fundamentally unclear pitch.
+
+### Piece 2
+- **Title:** "Ungate the Argument, Gate the Utility" (Zero Click Marketing podcast)
+- **Date:** 2026 (per active podcast feed)
+- **Link:** https://www.amazon.com/Zero-Click-Marketing/dp/B0GRXQ14MC
+- **Summary:** Natividad proposes a new rule for B2B demand generation: keep points of view, arguments, and educational takes freely available, and reserve gating specifically for genuine utility (templates, tools, deeper proprietary cuts, or live experiences).
+- **Key Takeaways:**
+  - Buyers now have more ways to get answers without ever entering a company's funnel — AI search, Reddit, YouTube, private communities, and competitors' ungated content all compete for that role.
+  - If a brand's best educational content sits behind a form, it fails to shape the brand's public record that AI systems and buyers actually draw from.
+  - The real strategic question shifts from "should we gate this?" to what should be freely available so buyers can understand, trust, remember, and cite a brand's ideas.
+- **Practical Applications:** Audit existing gated content assets and identify which are pure "arguments" (should be ungated to build public trust and AI citability) versus genuine standalone utility (appropriate to keep gated).
+
+---
+## Overall Themes
+Natividad's consistent throughline is that attribution and clicks are decreasingly reliable measures of marketing impact, and that brands need to build durable public reputation and audience trust through content that lives natively on the platforms people already use — rather than assuming every valuable asset should drive a click back to owned properties. Her recurring frameworks (zero-click content, Value on Investment, "ungate the argument, gate the utility") all address the same underlying problem: proving marketing's value in a world where the click is no longer guaranteed or even the right goal.
+
+---
