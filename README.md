@@ -25,3 +25,5 @@ The common thread across all ten: everyone on the list is building something the
 
 ## What I Collected : 
 A list of 10 practitioners working in AI-powered SEO, content production, and B2B SaaS marketing, plus a deeper research file on each; their role, platforms, why they matter, two real pieces of recent content (with dates, links, summaries, takeaways, and paraphrased quotes), and the recurring themes in their work. Everything was pulled from live searches rather than memory, since this field moves too fast for anything else to be trustworthy.
+
+[click here](Research Project)
